@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.env
+
+# Base de datos
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Audio temporales
+*.wav
+*.mp3
+*.m4a
