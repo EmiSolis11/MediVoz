@@ -254,10 +254,10 @@ Este prototipo no constituye una implementación certificada. Demuestra el conoc
 
 | Nombre | Rol | Carrera |
 |---|---|---|
-| [Nombre] | Backend (FastAPI + BD) | Ciencias de la Computación |
-| [Nombre] | IA y captura de voz (Whisper) | Ciencias de la Computación |
-| [Nombre] | Frontend + Documentación | Ciencias de la Computación |
-| [Nombre] | Dominio médico + Validación clínica | Medicina |
+| [Agustin Monreal Nava] | Backend (FastAPI + BD) | Ciencias de la Computación |
+| [Marco Antonio Magaña Mis] | IA y captura de voz (Whisper) | Ciencias de la Computación |
+| [Emiliano Solis EK] | Frontend + Documentación | Ciencias de la Computación |
+| [Ricardo Toledo Valle] | Dominio médico + Validación clínica | Medicina |
 
 ---
 
