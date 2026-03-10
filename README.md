@@ -127,8 +127,8 @@ brew install ffmpeg
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-equipo/medivoz.git
-cd medivoz
+git clone https://github.com/EmiSolis11/MediVoz.git
+cd MediVoz
 
 # 2. Crear entorno virtual
 python -m venv venv
